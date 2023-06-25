@@ -11,7 +11,7 @@
                 "version": "0.0.0.1",
                 "changelog": "changelog\n",
                 "targetAbi": "0.0.0.1",
-                "sourceUrl": "https://github.com/PCJones/jellyfin-auto-season-download/blob/test/Jellyfin.Plugin.Template.dll.zip",
+                "sourceUrl": "https://github.com/PCJones/jellyfin-auto-season-download/raw/test/Jellyfin.Plugin.Template.dll.zip",
                 "checksum": "842b2202b9b2ea5c8cc928ce19f870d3",
                 "timestamp": "2023-06-25 04:30:58"
             }
