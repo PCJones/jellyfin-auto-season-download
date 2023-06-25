@@ -1,7 +1,7 @@
 [
     {
         "guid": "cf980612-95d8-44d0-be6c-8e60f659eed4",
-        "name": "Auto Season Download",
+        "name": "[DEBUG] Auto Season Download",
         "description": "A plugin that downloads the next season(s) of a TV automatically as you need them. \n",
         "overview": "Automatically download next season when needed.",
         "owner": "PCJones",
@@ -12,7 +12,7 @@
                 "changelog": "changelog\n",
                 "targetAbi": "0.0.0.1",
                 "sourceUrl": "https://github.com/PCJones/jellyfin-auto-season-download/blob/test/Jellyfin.Plugin.Template.dll.zip",
-                "checksum": "842b2202b9b2ea5c8cc928ce19f870d3",
+                "checksum": "AFA18D615E85C2846461D906429B39C5",
                 "timestamp": "2023-06-25 04:30:58"
             }
         ]
